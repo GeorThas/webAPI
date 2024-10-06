@@ -1,0 +1,7 @@
+C:\Users\georg\source\repos\webAPI\client\bin\Debug\client.exe.config
+C:\Users\georg\source\repos\webAPI\client\bin\Debug\client.exe
+C:\Users\georg\source\repos\webAPI\client\bin\Debug\client.pdb
+C:\Users\georg\source\repos\webAPI\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\georg\source\repos\webAPI\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\webAPI\client\obj\Debug\client.exe
+C:\Users\georg\source\repos\webAPI\client\obj\Debug\client.pdb
